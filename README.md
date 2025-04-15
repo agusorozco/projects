@@ -1,1 +1,2 @@
 # projects
+This project analyzes the 2025 Global AI/ML/Data Science salary dataset from Kaggle to explore salary trends across roles, experience levels, locations, and industries. The goal is to provide insights into compensation patterns for professionals in the AI and data ecosystem.
